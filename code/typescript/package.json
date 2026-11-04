@@ -1,0 +1,8 @@
+{
+  "name": "minicoder",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node minicoder/src/demo.ts"
+  }
+}

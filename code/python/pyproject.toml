@@ -1,0 +1,9 @@
+[project]
+name = "minicoder"
+version = "0.1.0"
+description = "MiniCoder: the assembled example harness for Agent Harness in Practice"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["minicoder*"]
