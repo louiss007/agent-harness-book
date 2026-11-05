@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Agent Harness 实战
+  structure:
+    - type: space
+      key: agent-harness
+      title: Agent Harness 实战：构建可靠 AI 智能体的工程框架
+      path: agent-harness
+      default: true
+      content:
+        directory: .
