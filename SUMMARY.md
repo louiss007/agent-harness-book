@@ -1,6 +1,4 @@
-# Table of contents
-
-## 前言
+# 目录
 
 * [本书简介](README.md)
 * [前言](preface.md)
