@@ -1,6 +1,9 @@
 # Table of contents
 
-* [《Agent Harness 实战：构建可靠 AI 智能体的工程框架》](README.md)
+## 前言
+
+* [本书简介](README.md)
+* [前言](preface.md)
 
 ## 第一部分 概念篇
 
